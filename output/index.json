@@ -1,6 +1,22 @@
 [
-    {
-        "date": "2026-02-05",
-        "file": "archives/veille_2026-02-05.json"
-    }
+  {
+    "date": "2026-02-05",
+    "file": "archives/veille_2026-02-05.json"
+  },
+  {
+    "date": "2026-02-01",
+    "file": "archives/veille_2026-02-01.json"
+  },
+  {
+    "date": "2026-01-25",
+    "file": "archives/veille_2026-01-25.json"
+  },
+  {
+    "date": "2026-01-18",
+    "file": "archives/veille_2026-01-18.json"
+  },
+  {
+    "date": "2026-01-13",
+    "file": "archives/veille_2026-01-13.json"
+  }
 ]
