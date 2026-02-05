@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2026-02-01",
+    "title": "Mozilla investit dans l’IA open source de confiance",
+    "link": "https://www.zdnet.fr/blogs/l-esprit-libre/mozilla-veut-accroitre-ses-investissements-dans-lia-open-source-de-confiance-489166.htm",
+    "source": "ZDNet",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    "date": "2026-01-31",
+    "title": "Windows 11 impossible ? La meilleure distro Linux pour remplacer W10",
+    "link": "https://www.zdnet.fr/pratique/vous-ne-pouvez-pas-passer-a-windows-11-jai-trouve-la-meilleure-distro-linux-pour-remplacer-votre-pc-windows-10-489153.htm",
+    "source": "ZDNet",
+    "image": "https://images.unsplash.com/photo-1629654297299-c8506221ca97?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    "date": "2026-01-30",
+    "title": "Alerte Sécurité : Moltbot est un cauchemar pour la confidentialité",
+    "link": "https://www.zdnet.fr/actualites/moltbot-est-un-cauchemar-en-matiere-de-securite-pourquoi-il-ne-faut-pas-utiliser-cet-agent-ia-489114.htm",
+    "source": "ZDNet",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    "date": "2026-01-30",
+    "title": "Attaque DDoS record de 31,4 Tbps stoppée",
+    "link": "https://www.lemondeinformatique.fr/actualites/lire-telex-perplexity-signe-un-contrat-avec-microsoft-plusieurs-candidats-pour-l-hebergement-du-health-data-hub-attaque-ddos-a-31-4-tbps-stoppee-99219.html",
+    "source": "Le Monde Informatique",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc51?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    "date": "2026-01-30",
+    "title": "Le ransomware Sicarii verrouille définitivement les données",
+    "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ransomware-sicarii-verrouille-definitivement-les-donnees-99203.html",
+    "source": "Le Monde Informatique",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    "date": "2026-01-29",
+    "title": "Souveraineté Cloud : Suse lance un outil d'évaluation",
+    "link": "https://www.lemondeinformatique.fr/actualites/lire-suse-lance-un-outil-pour-evaluer-sa-souverainete-cloud-99202.html",
+    "source": "Le Monde Informatique",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    "date": "2026-01-28",
+    "title": "Surveiller le trafic réseau : la seule commande Linux nécessaire",
+    "link": "https://www.zdnet.fr/pratique/la-seule-commande-linux-dont-vous-avez-besoin-pour-surveiller-le-trafic-reseau-et-comment-lutiliser-488968.htm",
+    "source": "ZDNet",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc51?q=80&w=500&auto=format&fit=crop"
+  },
+  {
+    "date": "2026-01-28",
+    "title": "Sécurité Mobile : l'IA de Google verrouille les téléphones volés",
+    "link": "https://www.zdnet.fr/actualites/snatch-and-run-comment-lia-de-google-verrouille-votre-mobile-en-plein-vol-488984.htm",
+    "source": "ZDNet",
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=500&auto=format&fit=crop"
+  }
+]
