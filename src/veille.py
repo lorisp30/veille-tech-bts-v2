@@ -13,9 +13,9 @@ RSS_FEEDS = [
 ]
 
 KEYWORDS = [
-    "cybersécurité", "ransomware", "zero trust", "cloud", "aws", "azure", "gcp",
-    "ia", "intelligence artificielle", "llm", "openai", "mistral",
-    "devops", "kubernetes", "docker", "linux", "windows", "android",
+    "cybersécurité", "ransomware", "zero trust", "cloud", "aws", "azure",
+    "ia", "intelligence artificielle", "llm", "openai",
+    "devops", "docker", "linux", "windows",
 ]
 
 # Chemins (automatiques grâce à Pathlib)
