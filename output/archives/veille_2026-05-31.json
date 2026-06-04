@@ -1,359 +1,72 @@
 [
     {
-        "date":"Sun, 31 May 2026 04:05:10 GMT",
-        "title":"Graphène, finesse et MagSafe : la Momax Q.Mag X est-il vraiment la meilleure batterie portable ?",
-        "link":"https:\/\/www.zdnet.fr\/guide-achat\/graphene-finesse-et-magsafe-la-momax-q-mag-x-est-il-vraiment-la-meilleure-batterie-portable-495804.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/momax-q.mag-x_une.jpg"
+        "date": "Thu, 28 May 2026 09:05:43 GMT",
+        "title": "CrowdStrike et Google démantèlent GlassWorm, le botnet qui ciblait les développeurs open source",
+        "link": "https://www.zdnet.fr/actualites/crowdstrike-et-google-demantelent-glassworm-le-botnet-qui-ciblait-les-developpeurs-open-source-495677.htm#xtor=RSS-1",
+        "source": "ZDNet actualites",
+        "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2024/02/iStock-936338884.jpg"
     },
     {
-        "date":"Sun, 31 May 2026 12:05:40 GMT",
-        "title":"La Commission européenne élève le logiciel libre au rang de levier de politique industrielle",
-        "link":"https:\/\/www.zdnet.fr\/blogs\/l-esprit-libre\/la-commission-europeenne-eleve-le-logiciel-libre-au-rang-de-levier-de-politique-industrielle-495895.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/drapeau-ue_2017-04-02_pulse_of_europe_cologne_-1611.jpg"
+        "date": "2026-05-28T16:05:44",
+        "title": "Les modèles IA bien plus vulnérables aux attaques itératives qu'escompté",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-les-modeles-ia-bien-plus-vulnerables-aux-attaques-iteratives-qu-escompte-100295.html",
+        "source": "Toutes les actualités :",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
     },
     {
-        "date":"Sun, 31 May 2026 11:05:10 GMT",
-        "title":"Android Auto : 8 astuces pour éviter que votre téléphone ne surchauffe en voiture",
-        "link":"https:\/\/www.zdnet.fr\/pratique\/android-auto-8-astuces-pour-eviter-que-votre-telephone-ne-surchauffe-en-voiture-495771.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/android-auto-1.jpg"
+        "date": "Fri, 29 May 2026 10:05:49 GMT",
+        "title": "Anthropic s’envole avant son introduction en bourse : une valorisation record qui dépasse OpenAI",
+        "link": "https://www.zdnet.fr/actualites/anthropic-senvole-avant-son-introduction-en-bourse-une-valorisation-record-qui-depasse-openai-495787.htm#xtor=RSS-1",
+        "source": "ZDNet actualites",
+        "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/05/claude-sonnet-4.8.jpg"
     },
     {
-        "date":"Sat, 30 May 2026 06:05:23 GMT",
-        "title":"Souveraineté : le Cianum appelle à une coordination public, privé et communs numériques",
-        "link":"https:\/\/www.zdnet.fr\/blogs\/l-esprit-libre\/souverainete-le-cianum-appelle-a-une-coordination-public-prive-et-communs-numeriques-495882.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/souverainete-cianum2.jpg"
+        "date": "2026-05-29T13:41:03",
+        "title": "Snowflake renforce la sécurité des agents IA en rachetant Natoma",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-snowflake-renforce-la-securite-des-agents-ia-en-rachetant-natoma-100303.html",
+        "source": "Toutes les actualités :",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
     },
     {
-        "date":"Sat, 30 May 2026 04:05:50 GMT",
-        "title":"J'ai testé des dizaines de clients mail sous Linux, Aerion s'impose comme le meilleur",
-        "link":"https:\/\/www.zdnet.fr\/pratique\/jai-teste-des-dizaines-de-clients-mail-sous-linux-aerion-simpose-comme-le-meilleur-495765.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/aerion.jpg"
+        "date": "Thu, 28 May 2026 10:05:49 GMT",
+        "title": "Meta se lance dans l'IA payante avec Meta One, deux fois moins cher que la concurrence",
+        "link": "https://www.zdnet.fr/actualites/meta-se-lance-dans-lia-payante-avec-meta-one-deux-fois-moins-cher-que-la-concurrence-495682.htm#xtor=RSS-1",
+        "source": "ZDNet actualites",
+        "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/06/meta.jpg"
     },
     {
-        "date":"Fri, 29 May 2026 07:05:06 GMT",
-        "title":"Web pratique : voici un moyen simple d'exclure automatiquement l'IA des résultats de vos requêtes",
-        "link":"https:\/\/www.zdnet.fr\/pratique\/web-pratique-voici-un-moyen-simple-dexclure-automatiquement-lia-des-resultats-de-vos-requetes-495731.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/recherche-reponses-sans-ia-pratique.webp"
+        "date": "Fri, 29 May 2026 17:27:13 +0000",
+        "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+        "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+        "source": "TechCrunch",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
     },
     {
-        "date":"Fri, 29 May 2026 06:05:53 GMT",
-        "title":"Facture de l'IA : l'heure du rationnement a sonné pour les entreprises",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/facture-de-lia-lheure-du-rationnement-a-sonne-pour-les-entreprises-495846.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/03\/agents-ia-et-la-peur-de-perdre-les-jobs.jpg"
+        "date": "2026-05-29T08:46:22",
+        "title": "Fortinet érige des pare-feux contre les dérives de l'IA",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-fortinet-erige-des-pare-feux-contre-les-derives-de-l-ia-100291.html",
+        "source": "Toutes les actualités :",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
     },
     {
-        "date":"Fri, 29 May 2026 05:05:33 GMT",
-        "title":"Suivi des versions des modèles d'IA : les taux de désalignement d'Opus 4.8 sont similaires à ceux de Claude Mythos Preview",
-        "link":"https:\/\/www.zdnet.fr\/guide-achat\/suivi-des-versions-des-modeles-dia-les-taux-de-desalignement-dopus-4-8-sont-similaires-a-ceux-de-claude-mythos-preview-495829.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/ai-tracker-1.webp"
+        "date": "2026-05-29T08:55:33",
+        "title": "Une faille dans le framework Starlette touche plusieurs outils IA",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-une-faille-dans-le-framework-starlette-touche-plusieurs-outils-ia-100298.html",
+        "source": "Toutes les actualités :",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
     },
     {
-        "date":"Fri, 29 May 2026 04:05:10 GMT",
-        "title":"Quand la divulgation de données met un frein brutal au déploiement de l'IA – et comment y faire face",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/quand-la-divulgation-de-donnees-met-un-frein-brutal-au-deploiement-de-lia-et-comment-y-faire-face-495819.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/gettyimages-2227611669.webp"
+        "date": "Wed, 27 May 2026 08:05:27 GMT",
+        "title": "« Rust sauvera Linux de l'IA », affirme le responsable de la maintenance du noyau",
+        "link": "https://www.zdnet.fr/actualites/rust-sauvera-linux-de-lia-affirme-le-responsable-de-la-maintenance-du-noyau-495666.htm#xtor=RSS-1",
+        "source": "ZDNet actualites",
+        "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/05/greg-kh-rust-22more-fun-for-maintainers22-and-22more-secure-linux-for-users-22.webp"
     },
     {
-        "date":"Fri, 29 May 2026 04:05:42 GMT",
-        "title":"Pourquoi j'ai troqué Copilot pour Claude dans Word, Excel et PowerPoint – et comment vous pouvez en faire autant",
-        "link":"https:\/\/www.zdnet.fr\/guide-achat\/pourquoi-jai-troque-copilot-pour-claude-dans-word-excel-et-powerpoint-et-comment-vous-pouvez-en-faire-autant-495816.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/figure-top-i-used-claude-ai-in-microsoft-word-excel-and-powerpoint-heres-how-it-worked.webp"
-    },
-    {
-        "date":"Fri, 29 May 2026 12:05:29 GMT",
-        "title":"ZDNET Morning 29\/05\/2026 : Euro-Office débarque, Valorisation stratosphérique pour Anthropic, Alerte sécurité : Kali365...",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/zdnet-morning-29-05-2026-euro-office-debarque-valorisation-stratospherique-pour-anthropic-alerte-securite-kali365-495798.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2024\/10\/zdnet_1280.jpg"
-    },
-    {
-        "date":"Fri, 29 May 2026 10:05:49 GMT",
-        "title":"Anthropic s’envole avant son introduction en bourse : une valorisation record qui dépasse OpenAI",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/anthropic-senvole-avant-son-introduction-en-bourse-une-valorisation-record-qui-depasse-openai-495787.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/claude-sonnet-4.8.jpg"
-    },
-    {
-        "date":"Thu, 28 May 2026 08:05:16 GMT",
-        "title":"J'ai de nouveau essayé les lunettes Android XR de Google – et elles devraient inquiéter Meta et Apple",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/jai-de-nouveau-essaye-les-lunettes-android-xr-de-google-et-elles-devraient-inquieter-meta-et-apple-495750.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/google-android-xr-glasses.webp"
-    },
-    {
-        "date":"Thu, 28 May 2026 07:05:59 GMT",
-        "title":"Nouveaux modèles et suite Vibe, voici comment Mistral AI compte maîtriser toute la chaîne de l'IA",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/nouveaux-modeles-et-suite-vibe-voici-comment-mistral-ai-compte-maitriser-toute-la-chaine-de-lia-495709.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/mistra-ai-now-2026.jpg"
-    },
-    {
-        "date":"Thu, 28 May 2026 05:05:15 GMT",
-        "title":"Mes réglages préférés sous Zorin OS et pourquoi vous les adorerez aussi",
-        "link":"https:\/\/www.zdnet.fr\/pratique\/mes-reglages-preferes-sous-zorin-os-et-pourquoi-vous-les-adorerez-aussi-495708.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/zorincubeherolaptop.webp"
-    },
-    {
-        "date":"Thu, 28 May 2026 04:05:51 GMT",
-        "title":"Ce dirigeant propose quatre façons d'innover à l'ère de l'IA autonome",
-        "link":"https:\/\/www.zdnet.fr\/pratique\/ce-dirigeant-propose-quatre-facons-dinnover-a-lere-de-lia-autonome-495701.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/shutterstock-555831022-cropped.webp"
-    },
-    {
-        "date":"Thu, 28 May 2026 01:05:26 GMT",
-        "title":"L'IA est une course à l'armement, et les États-Unis veulent investir 9 milliards de dollars dans les superpuces de Nvidia pour rester dans la course",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/lia-est-une-course-a-larmement-et-les-etats-unis-veulent-investir-9-milliards-de-dollars-dans-les-superpuces-de-nvidia-pour-rester-dans-la-course-495692.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/untitled-1.webp"
-    },
-    {
-        "date":"Thu, 28 May 2026 01:05:12 GMT",
-        "title":"Dell Tech World 2026 : pourquoi l'avenir de l'IA réside dans le on-prem",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/dell-tech-world-2026-pourquoi-lavenir-de-lia-reside-dans-le-on-prem-495689.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/1000027098.webp"
-    },
-    {
-        "date":"Thu, 28 May 2026 11:05:25 GMT",
-        "title":"ZDNET Morning 28\/05\/2026 : Fin de partie pour GlassWorm, Rust : un rempart vital pour Linux face à l'IA, Google rationne ses TPU,...",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/zdnet-morning-28-05-2026-fin-de-partie-pour-glassworm-rust-un-rempart-vital-pour-linux-face-a-lia-google-rationne-ses-tpu-495685.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2024\/10\/zdnet_1280.jpg"
-    },
-    {
-        "date":"Thu, 28 May 2026 10:05:49 GMT",
-        "title":"Meta se lance dans l'IA payante avec Meta One, deux fois moins cher que la concurrence",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/meta-se-lance-dans-lia-payante-avec-meta-one-deux-fois-moins-cher-que-la-concurrence-495682.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2025\/06\/meta.jpg"
-    },
-    {
-        "date":"Thu, 28 May 2026 09:05:43 GMT",
-        "title":"CrowdStrike et Google démantèlent GlassWorm, le botnet qui ciblait les développeurs open source",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/crowdstrike-et-google-demantelent-glassworm-le-botnet-qui-ciblait-les-developpeurs-open-source-495677.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2024\/02\/iStock-936338884.jpg"
-    },
-    {
-        "date":"Thu, 28 May 2026 09:05:24 GMT",
-        "title":"ZD Tech : L'écrasant succès commercial des TPU prive les chercheurs de Google de puissance de calcul",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/zd-tech-lecrasant-succes-commercial-des-tpu-prive-les-chercheurs-de-google-de-puissance-de-calcul-495346.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2024\/09\/zdnet-podcast-bo.jpg"
-    },
-    {
-        "date":"Thu, 28 May 2026 09:05:52 GMT",
-        "title":"Tesla et SpaceX : les spéculations autour d’une fusion relancées avant l’IPO du géant spatial",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/tesla-et-spacex-les-speculations-autour-dune-fusion-relancees-avant-lipo-du-geant-spatial-495670.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2025\/04\/nouvelle-tesla-model-y.jpg"
-    },
-    {
-        "date":"Wed, 27 May 2026 08:05:27 GMT",
-        "title":"« Rust sauvera Linux de l'IA », affirme le responsable de la maintenance du noyau",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/rust-sauvera-linux-de-lia-affirme-le-responsable-de-la-maintenance-du-noyau-495666.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/greg-kh-rust-22more-fun-for-maintainers22-and-22more-secure-linux-for-users-22.webp"
-    },
-    {
-        "date":"Wed, 27 May 2026 08:05:48 GMT",
-        "title":"Mon ophtalmo s'était trompé dans ma prescription, et l'IA m'a aidé à corriger son erreur",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/mon-ophtalmo-setait-trompe-dans-ma-prescription-et-lia-ma-aide-a-corriger-son-erreur-495646.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/gettyimages-1082334218.webp"
-    },
-    {
-        "date":"Wed, 27 May 2026 07:05:23 GMT",
-        "title":"Linux pratique : Snap ou Flatpak, comment choisir entre ces deux gestionnaires de paquets ?",
-        "link":"https:\/\/www.zdnet.fr\/pratique\/linux-pratique-snap-ou-flatpak-comment-choisir-entre-ces-deux-gestionnaires-de-paquets-495585.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/which-is-the-better-universal-package-manager-for-linux-snap-or-flatpak.webp"
-    },
-    {
-        "date":"Wed, 27 May 2026 07:05:19 GMT",
-        "title":"Ce que consomme réellement votre box internet et les astuces pour alléger immédiatement la facture",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/ce-que-consomme-reellement-votre-box-internet-et-les-astuces-pour-alleger-immediatement-la-facture-495626.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/copilot_20260527_145221.png"
-    },
-    {
-        "date":"Wed, 27 May 2026 04:05:30 GMT",
-        "title":"Nouvelle souris et clavier Logitech Signature : la promesse de silence et de confort pour vos journées de travail",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/nouvelle-souris-et-clavier-logitech-signature-la-promesse-de-silence-et-de-confort-pour-vos-journees-de-travail-495623.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/comfort-plus-m850l-life-1280.jpg"
-    },
-    {
-        "date":"Wed, 27 May 2026 03:05:35 GMT",
-        "title":"Ubuntu Core 26 propose une version immuable de Linux sur laquelle vous pouvez compter jusqu'en... 2041",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/ubuntu-core-26-propose-une-version-immuable-de-linux-sur-laquelle-vous-pouvez-compter-jusquen-2041-495620.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/embedded-gettyimages-2255525952.webp"
-    },
-    {
-        "date":"Wed, 27 May 2026 03:05:33 GMT",
-        "title":"Quels sont les risques liés aux plateformes de gestion des agents d'IA",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/quels-sont-les-risques-lies-aux-plateformes-de-gestion-des-agents-dia-495617.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/the-rise-and-risks-of-agent-management-platforms-v2.webp"
-    },
-    {
-        "date":"Wed, 27 May 2026 02:05:13 GMT",
-        "title":"Prime IA à 290 000 euros chez Samsung : le jackpot des ingénieurs",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/prime-ia-a-290-000-euros-chez-samsung-le-jackpot-des-ingenieurs-495615.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/04\/samsungzdnet.jpg"
-    },
-    {
-        "date":"Wed, 27 May 2026 01:05:53 GMT",
-        "title":"J'ai abandonné ChatGPT au profit d'une IA gratuite, privée et locale appelée Ollama – voici pourquoi",
-        "link":"https:\/\/www.zdnet.fr\/guide-achat\/jai-abandonne-chatgpt-au-profit-dune-ia-gratuite-privee-et-locale-appelee-ollama-voici-pourquoi-495612.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2026\/05\/ollamamacbook.webp"
-    },
-    {
-        "date":"Wed, 27 May 2026 12:05:35 GMT",
-        "title":"ZDNET Morning 27\/05\/2026 : BNP Paribas et Mistral AI, Ferrari Luce : les débuts électriques controversés, iOS 26.6 en bêta,...",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/zdnet-morning-27-05-2026-bnp-paribas-et-mistral-ai-ferrari-luce-les-debuts-electriques-controverses-ios-26-6-en-beta-495609.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2024\/10\/zdnet_1280.jpg"
-    },
-    {
-        "date":"Wed, 27 May 2026 12:05:47 GMT",
-        "title":"Intelligence artificielle, pourquoi BNP Paribas prolonge son partenariat avec Mistral AI pour 3 ans",
-        "link":"https:\/\/www.zdnet.fr\/actualites\/intelligence-artificielle-pourquoi-bnp-paribas-prolonge-son-partenariat-avec-mistral-ai-pour-3-ans-495601.htm#xtor=RSS-1",
-        "source":"ZDNet actualites",
-        "image":"https:\/\/www.zdnet.fr\/wp-content\/uploads\/zdnet\/2025\/06\/llm-ai-gettyimages-2149059417.webp"
-    },
-    {
-        "date":"2026-05-29T15:29:39",
-        "title":"AWS adapte Opensearch serverless à l'IA agentique",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-aws-adapte-opensearch-serverless-a-l-ia-agentique-100309.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"2026-05-29T14:04:19",
-        "title":"La GenAI incontournable pour les étudiants des grandes écoles",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-la-genai-incontournable-pour-les-etudiants-des-grandes-ecoles-100305.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"2026-05-29T13:41:03",
-        "title":"Snowflake renforce la sécurité des agents IA en rachetant Natoma",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-snowflake-renforce-la-securite-des-agents-ia-en-rachetant-natoma-100303.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"2026-05-29T11:10:28",
-        "title":"Les agents IA créent de l'incertitude dans les budgets IT",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-les-agents-ia-creent-de-l-incertitude-dans-les-budgets-it-100292.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"2026-05-29T08:55:33",
-        "title":"Une faille dans le framework Starlette touche plusieurs outils IA",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-une-faille-dans-le-framework-starlette-touche-plusieurs-outils-ia-100298.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"2026-05-29T08:54:56",
-        "title":"Plus nombreux, les incidents IT coûtent cher aux entreprises",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-plus-nombreux-les-incidents-it-coutent-cher-aux-entreprises-100294.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"2026-05-29T08:46:22",
-        "title":"Fortinet érige des pare-feux contre les dérives de l'IA",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-fortinet-erige-des-pare-feux-contre-les-derives-de-l-ia-100291.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"2026-05-29T08:46:01",
-        "title":"L'inflation gonfle la facture cloud et logicielle de 140 Md&euro; par an",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-l-inflation-gonfle-la-facture-cloud-et-logicielle-de-140-mdeteuro-par-an-100293.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"2026-05-28T18:11:45",
-        "title":"Telex : Le ministères des Armées reconduirait son contrat avec Microsoft, TP-Link dévoile un routeur prêt pour le WiFi 8, Snowflake étend son contrat avec AWS",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-telex-le-ministeres-des-armees-reconduirait-son-contrat-avec-microsoft-tp-link-devoile-un-routeur-pret-pour-le-wifi-8-snowflake-etend-son-contrat-avec-aws-100300.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"2026-05-28T16:34:36",
-        "title":"L'Etat sonde l'écosystème IT sur sa stratégie cloud",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-l-etat-sonde-l-ecosysteme-it-sur-sa-strategie-cloud-100286.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"2026-05-28T16:15:14",
-        "title":"Mistral met le cap sur l'infrastructure IA et l'industrie",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-mistral-met-le-cap-sur-l-infrastructure-ia-et-l-industrie-100296.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"2026-05-28T16:05:44",
-        "title":"Les modèles IA bien plus vulnérables aux attaques itératives qu'escompté",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-les-modeles-ia-bien-plus-vulnerables-aux-attaques-iteratives-qu-escompte-100295.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"2026-05-28T15:09:06",
-        "title":"Inefficaces, les outils collaboratifs font exploser le shadow IA",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-inefficaces-les-outils-collaboratifs-font-exploser-le-shadow-ia-100290.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"2026-05-28T12:32:13",
-        "title":"La CNIL inflige une amende de 5 M&euro; à Iqvia (MAJ)",
-        "link":"https:\/\/www.lemondeinformatique.fr\/actualites\/lire-la-cnil-inflige-une-amende-de-5-meteuro-a-iqvia-maj-100288.html",
-        "source":"Toutes les actualités :",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"Sat, 30 May 2026 17:00:00 +0000",
-        "title":"Snap alums unveil Ghost Angels fund",
-        "link":"https:\/\/techcrunch.com\/2026\/05\/30\/snap-alums-unveil-ghost-angels-fund\/",
-        "source":"TechCrunch",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"Sat, 30 May 2026 02:00:00 +0000",
-        "title":"Founders seize on Indian court ruling to revive criticism of Google’s ad business",
-        "link":"https:\/\/techcrunch.com\/2026\/05\/29\/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business\/",
-        "source":"TechCrunch",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
-    },
-    {
-        "date":"Fri, 29 May 2026 17:27:13 +0000",
-        "title":"After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-        "link":"https:\/\/techcrunch.com\/2026\/05\/29\/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m\/",
-        "source":"TechCrunch",
-        "image":"https:\/\/images.unsplash.com\/photo-1550751827-4bd374c3f58b?q=80&w=500&auto=format&fit=crop"
+        "date": "Fri, 29 May 2026 04:05:10 GMT",
+        "title": "Quand la divulgation de données met un frein brutal au déploiement de l'IA – et comment y faire face",
+        "link": "https://www.zdnet.fr/actualites/quand-la-divulgation-de-donnees-met-un-frein-brutal-au-deploiement-de-lia-et-comment-y-faire-face-495819.htm#xtor=RSS-1",
+        "source": "ZDNet actualites",
+        "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/05/gettyimages-2227611669.webp"
     }
 ]
