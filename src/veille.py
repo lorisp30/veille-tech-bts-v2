@@ -6,6 +6,7 @@ from pathlib import Path
 
 # Configuration des flux et mots-clés
 RSS_FEEDS = [
+    "https://www.it-connect.fr/actualites/",
     "https://www.zdnet.fr/feeds/rss/actualites/",
     "https://www.lemondeinformatique.fr/flux-rss/thematique/toutes-les-actualites/rss.xml",
     "https://techcrunch.com/feed/",
