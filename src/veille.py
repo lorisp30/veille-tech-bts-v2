@@ -51,6 +51,7 @@ def main():
         print("Aucun article trouvé."); return
 
     df = pd.DataFrame(rows).drop_duplicates(subset=["title", "link"])
+    df = df.head(10)
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     
     # 1. Sauvegarde l'archive JSON
