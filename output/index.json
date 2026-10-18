@@ -1,5 +1,9 @@
 [
     {
+        "date": "2026-10-18",
+        "file": "archives/veille_2026-10-18.json"
+    },
+    {
         "date": "2026-10-11",
         "file": "archives/veille_2026-10-11.json"
     },
@@ -74,9 +78,5 @@
     {
         "date": "2026-06-07",
         "file": "archives/veille_2026-06-07.json"
-    },
-    {
-        "date": "2026-05-31",
-        "file": "archives/veille_2026-05-31.json"
     }
 ]
